@@ -1,12 +1,13 @@
 Simple Video Gallery
 ====================================
-
 Simple video gallery allows you to display WEBM files from a certain directroy.
 So whenever your video is added to the 'videos' folder it will be pulled
 and automatically displayed when the page is refreshed. 
 NOTE: May work with other video files just haven't tried it :)
 
-donate at: https://github.nated.xyz/donate/
+Documentation
+==============
+https://nateduhamell.com/github-project-simple-video-gallery/
 
 Features
 ===============
